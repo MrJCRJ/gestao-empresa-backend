@@ -1,0 +1,30 @@
+{
+  "balanco": {
+    "suppliers": [],
+    "clients": [],
+    "products": [],
+    "transactions": []
+  },
+  "fornecedores": [
+    {
+      "nome": "test",
+      "cnpj": "1351813546",
+      "contato": "75983403977"
+    }
+  ],
+  "clientes": [
+    {
+      "nome": "fs\\ef\\ef",
+      "cpfCnpj": "13518513512",
+      "email": "mr.jos@gmail.com",
+      "telefone": "758798454"
+    }
+  ],
+  "produtos": [
+    {
+      "nome": "adwad",
+      "preco": 0,
+      "quantidade": 0
+    }
+  ]
+}
